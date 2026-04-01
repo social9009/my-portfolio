@@ -7,7 +7,7 @@
 
 > Personal portfolio website built with pure **HTML, CSS, and JavaScript** — no frameworks, no build tools. Fully static, deployable anywhere.
 
-🌐 **Live Demo:** [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+🌐 **Live Demo:** https://github.com/social9009/my-portfolio
 
 ---
 
